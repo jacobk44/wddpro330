@@ -1,4 +1,11 @@
 Team Trello Board: https://trello.com/b/UqFVR0GQ/sleep-outside-team-410
 
 Team Members:
-- Only me 
+- Only me
+
+There were multiple changes made to the same file and Git doesn't know which to keep. This results in a merge conflict. How can conflicts be avoided? A couple of ways:
+
+First, make sure whenever you sit down to work on the project you should pull before you do anything else to make sure you get changes any of your teammates have made recently.
+Commit often! Small commits are less likely to result in conflicts than large ones...and they are much easier to fix if a conflict does occur.
+Take advantage of software design techniques like modules to break your code up into smaller pieces.
+Finally take advantage of Git's ability to branch. Branching is introduced in this activity's stretch activity below.
